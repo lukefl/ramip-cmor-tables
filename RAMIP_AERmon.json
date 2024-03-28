@@ -410,6 +410,24 @@
             "ok_min_mean_abs": "", 
             "ok_max_mean_abs": ""
         }, 
+        "ps": {
+            "frequency": "mon", 
+            "modeling_realm": "atmos", 
+            "standard_name": "surface_air_pressure", 
+            "units": "Pa", 
+            "cell_methods": "area: time: mean", 
+            "cell_measures": "area: areacella", 
+            "long_name": "Surface Air Pressure", 
+            "comment": "surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates", 
+            "dimensions": "longitude latitude time", 
+            "out_name": "ps", 
+            "type": "real", 
+            "positive": "", 
+            "valid_min": "", 
+            "valid_max": "", 
+            "ok_min_mean_abs": "", 
+            "ok_max_mean_abs": ""
+        }, 
         "reffclwtop": {
             "frequency": "mon", 
             "modeling_realm": "aerosol", 
