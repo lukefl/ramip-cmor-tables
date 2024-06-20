@@ -3680,7 +3680,7 @@
             "fx"
         ],
         "license":[
-            "^RAMIP model data produced by .* is licensed under a Creative Commons .* License (https://creativecommons\\.org/.*)\\. *The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose\\. *All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law\\.$"
+            "^RAMIP model data produced by .* is licensed under a Creative Commons .* License (https://creativecommons\\.org/.*)\\. .*The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose\\. *All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law\\.$"
         ],
         "DRS":{
             "directory_path_example":"CMIP6/CMIP/MOHC/HadGEM3-GC31-MM/historical/r1i1p1f3/Amon/tas/gn/v20191207/",
