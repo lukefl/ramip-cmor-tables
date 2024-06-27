@@ -3644,6 +3644,7 @@
             "seaIce":"Sea Ice"
         },
         "table_id":[
+            "3hr",
             "6hrPlev",
             "AERday",
             "AERmon",
